@@ -25,3 +25,9 @@ python run.py
 ```
 
 Sau đó mở trình duyệt tại http://127.0.0.1:5000
+
+##  dev
+
+## Nhánh dev
+
+dev dùng để phát triển tính năng mới trước khi gộp vào main.
